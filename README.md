@@ -16,4 +16,5 @@ xxxxxx
 Joe Maneira 
 
 Github profile: https://github.com/Maneira3232
-Repository:file:///C:/Users/Joe%20Maneira/Desktop/bootcamp/Homework/Mr.Pass-Word/Mrpassword.html
+Repository: file:///C:/Users/Joe%20Maneira/Desktop/bootcamp/Homework/Mr.Pass-Word/Mrpassword.html
+URL: https://github.com/Maneira3232/Mr.Pass-Word.git
